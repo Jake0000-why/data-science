@@ -2,6 +2,12 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../../archive (1)/val"
+		},
+		{
+			"path": "../../archive (1)/train"
 		}
 	],
 	"settings": {}
